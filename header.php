@@ -77,7 +77,7 @@ body {
 
 <ul>
 <li><a href="">Welcome to Tour&Travels Places</a></li>
-  <li><a href="home.php">Home</a></li>
+  <li><a href="index.php">Home</a></li>
   <li><a href="header.php">About</a></li>
   <li><a href="contact.php">Contact</a></li>
   <li style="float:right"><a class="active" href="login_form.php">Login</a></li>
